@@ -1,0 +1,13 @@
+{
+    "name": "Imp Syntax",
+    "version": "0.0.1",
+    "authors": ["Antoine Bernabeu"],
+    "description": "Generic Syntax Highlighting for Imp",
+    "repository": "https://github.com/bernabeu-a/zed-imp",
+    "languages": {
+        "Imp": "languages/imp"
+    },
+    "grammars": {
+        "imp": "grammars/imp.wasm"
+    }
+}

@@ -1,0 +1,4 @@
+name = "Imp"
+grammar = "imp"
+path_suffixes = ["imp"]
+line_comments = ["// "]
